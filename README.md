@@ -18,3 +18,5 @@ https://www.youtube.com/channel/UCMtlICYxr6Dz_PG9_SVqRYQ
 Онлайн-задачи
 https://www.codewars.com/
 https://www.hackerrank.com
+
+Как
