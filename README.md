@@ -2,21 +2,19 @@
 Resources for studying JS
 
 
-Книги
-Серия You Don't Know JS, Kyle Simpson
-Speaking JavaScript, Axel Rauschmayer
-«Секреты JavaScript ниндзя», Джон Резиг
-JavaScript Enlightenment, Cody Lindley
-«Чистый код: создание, анализ и рефакторинг», Роберт Мартин
-«Секреты CSS», Леа Веру
-Introduction to Algorithms, Thomas H. Cormen
-Cracking the Coding Interview, Gayle Laakmann McDowell
-Онлайн-материалы
-http://shamansir.github.io/JavaScript-Garden/
-https://academy.yandex.ru/events/frontend/
-https://www.youtube.com/channel/UCMtlICYxr6Dz_PG9_SVqRYQ 
-Онлайн-задачи
-https://www.codewars.com/
-https://www.hackerrank.com
-
-Как
+<h3>Книги</h3>
+<p>You Don't Know JS, Kyle Simpson</p>
+<p>Speaking JavaScript, Axel Rauschmayer</p>
+<p>«Секреты JavaScript ниндзя», Джон Резиг</p>
+<p>JavaScript Enlightenment, Cody Lindley</p>
+<p>«Чистый код: создание, анализ и рефакторинг», Роберт Мартин</p>
+<p>«Секреты CSS», Леа Веру</p>
+<p>Introduction to Algorithms, Thomas H. Cormen</p>
+<p>Cracking the Coding Interview, Gayle Laakmann McDowell</p>
+<h3>Онлайн-материалы</h3>
+http://shamansir.github.io/JavaScript-Garden/</p>
+https://academy.yandex.ru/events/frontend/</p>
+https://www.youtube.com/channel/UCMtlICYxr6Dz_PG9_SVqRYQ </p>
+<h3>Онлайн-задачи</h3>
+<p>https://www.codewars.com/</p>
+<p>https://www.hackerrank.com</p>
